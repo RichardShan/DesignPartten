@@ -1,4 +1,4 @@
-package com.richard.creational.factory_method;
+package com.richard.creational.factory_method.stract;
 
 /**
  * @author Richard.Shan
